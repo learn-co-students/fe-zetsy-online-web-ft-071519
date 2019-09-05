@@ -14,7 +14,34 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	padding: 0 45px 70px 20px;
 }
 
-/* Write all remaining styles here */
+h1 {
+	font-size: 5em;
+	color: rgb(153, 173, 166);
+
+}
+
+h2 {
+	font-size: 2em;
+	color: rgb(111, 127, 122);
+
+}
+
+h1, h2 {
+	font-family: 'Baskerville', serif;
+}
+
+#featured img {
+	border: 5px rgb(152,173,166) solid;
+}
+
+#press img {
+	border: 5px rgb(204,204,204) solid;
+}
+
+#press p {
+	font-size: 0.8em;
+	float: right;
+}
